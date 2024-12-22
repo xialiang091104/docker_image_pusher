@@ -1,1 +1,1 @@
-rabbitmq:latest
+centos:latest
