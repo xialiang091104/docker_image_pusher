@@ -1,2 +1,2 @@
-CentOS:latest
+redis:3.0.0
 
