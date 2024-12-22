@@ -1,2 +1,2 @@
-zookeeper:3.4.6
+zookeeper:latest
 
