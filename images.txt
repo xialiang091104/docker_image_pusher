@@ -1,1 +1,1 @@
-vim:latest
+java:latest
