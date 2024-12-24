@@ -1,1 +1,1 @@
-java:latest
+java:18
