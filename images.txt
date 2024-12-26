@@ -1,1 +1,1 @@
-vim-docker:v8.2.4542
+vim-docker:latest
